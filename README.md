@@ -12,3 +12,4 @@ A project to develop experience with doing tests in order to have better odds wi
  * Time Limit Questions
  * Scoreboard
  * Challenges
+ * Battle Themes
